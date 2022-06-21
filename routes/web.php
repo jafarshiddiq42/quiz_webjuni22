@@ -19,3 +19,4 @@ Route::get('/',  [App\Http\Controllers\HomeController::class, 'index'])->middlew
 Auth::routes();
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
+// tes
