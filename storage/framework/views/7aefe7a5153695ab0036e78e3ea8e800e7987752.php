@@ -120,7 +120,7 @@ unset($__errorArgs, $__bag); ?>
                     </form>
                     <hr>
                     <div class="text-center">
-                        <a class="small" href="#">Forgot Password?</a>
+                        <a class="small" href="/password/reset">Forgot Password?</a>
                     </div>
                     <div class="text-center">
                         <a class="small" href="/login">Already have an account? Login!</a>
